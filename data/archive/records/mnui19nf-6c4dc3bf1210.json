@@ -1,0 +1,28 @@
+{
+  "id": "mnui19nf-6c4dc3bf1210",
+  "createdAt": "2026-04-11T15:38:01.374Z",
+  "name": "glazed-ceramic__brushed-anodized__0002",
+  "groupKey": "glazed-ceramic__brushed-anodized",
+  "groupSeq": 2,
+  "groupLabel": "Glazed Ceramic · Brushed + Anodized",
+  "imageMimeType": "image/jpeg",
+  "imageExt": "jpg",
+  "imageFile": "glazed-ceramic__brushed-anodized__0002.jpg",
+  "inputs": {
+    "material": "Glazed Ceramic",
+    "color": "Neutral White",
+    "finish": "Brushed + Anodized",
+    "surfaceDetail": "Glazed Ceramic, Fine grain, realistic specular highlights, no heavy scratches, 동양식 투각 스타일 도자기 스타일의 문양을 만들어줘",
+    "lighting": "Top-left key light + soft 3-point studio lighting, minimize shadows",
+    "optionalNotes": ""
+  },
+  "promptKo": "목표: 공중에 단 하나의 구(스피어)만 중앙에 떠 있는 재질 샘플 이미지.\n재질(Material): Glazed Ceramic\n색(Color): Neutral White\n마감(Finish): Brushed + Anodized\n표면 디테일(Texture/Detail): Glazed Ceramic, Fine grain, realistic specular highlights, no heavy scratches, 동양식 투각 스타일 도자기 스타일의 문양을 만들어줘\n조명(Lighting): Top-left key light + soft 3-point studio lighting, minimize shadows\n환경: 순백(#FFFFFF) 배경, 바닥/접촉 그림자 없음, 다른 오브젝트 없음.\n금지: 텍스트/로고/라벨/워터마크/설명 문구.",
+  "promptEn": "A single sphere floating centrally in midair, material: glazed ceramic, color: neutral white, finish: brushed and anodized, surface detail: glazed ceramic with fine grain, realistic specular highlights, no heavy scratches, featuring East Asian pierced-style ceramic patterns. Lighting: top-left key light with soft 3-point studio lighting, minimizing shadows. Environment: pure white (#FFFFFF) background, no floor or contact shadows, no other objects. No text, logos, labels, or watermarks.",
+  "promptCmf": "A photorealistic 3D sphere isolated on a pure white background. The sphere features glazed ceramic material with a neutral white color and a brushed anodized finish. Surface detail: glazed ceramic with fine grain and East Asian pierced-style ceramic patterns, realistic specular highlights, no heavy scratches. Lighting: top-left key light with soft 3-point studio lighting, minimizing shadows. No floor/contact shadows; the sphere appears floating in a void. Centered composition, clean neutral studio look, realistic PBR material response, crisp but soft edge highlights, no depth-of-field gimmicks. No text, no logos, no labels, no watermark, no extra objects, exactly one sphere.",
+  "generation": {
+    "model": "gemini-3.1-flash-image-preview",
+    "aspectRatio": "1:1",
+    "imageSize": "512"
+  },
+  "drive": null
+}

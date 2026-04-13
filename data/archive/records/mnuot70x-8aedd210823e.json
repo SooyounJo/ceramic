@@ -1,0 +1,25 @@
+{
+  "id": "mnuot70x-8aedd210823e",
+  "createdAt": "2026-04-11T18:47:42.036Z",
+  "name": "emo__0-10__0002",
+  "groupKey": "emo__0-10",
+  "groupSeq": 2,
+  "groupLabel": "AI: 오늘 하루의 에너지는 어땠어? (0~10 느낌으로 + 한 문장)\nUSER: 10점 엄청 즐거웠어\nAI: 오늘 가장 오래 남은 감정은 뭐야? 그 감정이 몸에서 느껴지는 위치/감각은?\nUSER: 귀가 즐거웠지 막",
+  "imageMimeType": "image/jpeg",
+  "imageExt": "jpg",
+  "imageFile": "emo__0-10__0002.jpg",
+  "inputs": {
+    "emotion": "AI: 오늘 하루의 에너지는 어땠어? (0~10 느낌으로 + 한 문장)\nUSER: 10점 엄청 즐거웠어\nAI: 오늘 가장 오래 남은 감정은 뭐야? 그 감정이 몸에서 느껴지는 위치/감각은?\nUSER: 귀가 즐거웠지 막",
+    "optionalNotes": ""
+  },
+  "promptKo": "목표: 감정(무드)에 따라 자연스러운 형상과 질감을 가진 도자기 오브젝트 1개(병/단지/화병 형태) 생성.\n감정 대화 로그:\nAI: 오늘 하루의 에너지는 어땠어? (0~10 느낌으로 + 한 문장)\nUSER: 10점 엄청 즐거웠어\nAI: 오늘 가장 오래 남은 감정은 뭐야? 그 감정이 몸에서 느껴지는 위치/감각은?\nUSER: 귀가 즐거웠지 막 음악과 함께 즐겨봤어\nAI: 오늘 나를 압박한 것(또는 불편했던 것)은 뭐였어? 어떤 결로 남았어?\nUSER: 뭐 오늘 멀리갔다 조금 고생했지\nAI: 오늘 나를 살린 것(또는 잠깐이라도 편해진 순간)은 뭐였어?\nUSER: 나를 살린건 오늘의 음악 그 하나였어 축음기를 틀었거든\nAI: 지금 이 감정을 ‘형태’로 만들면 어떤 실루엣이야? (둥글다/뾰족하다/흐른다/접힌다 등)\nUSER: 뾰족한것 같아\nAI: 체크인이 완료됐어요. 이 대화로 형태/유약/팔레트/마감/표면 디테일을 자동 구성합니다.\n재질: 반드시 도자기(세라믹)만. 도자기 안에서 유약/소성/바디/컬러/마감은 감정에 맞게 자동 선택.\n형태 제약: 구(스피어) 금지. 정확히 오브젝트 1개만 (유기적 실루엣).\n환경: 순백(#FFFFFF) 배경, 미니멀 스튜디오, 다른 오브젝트 없음.\n금지: 텍스트/로고/라벨/워터마크/설명 문구.",
+  "promptEn": "GOAL: Generate one realistic handmade ceramic object image for product visualization.\nEMOTION: 음악과 함께한 즐거운 하루의 에너지\nVISUAL_WORDS_EN: EMOTION: Energetic joy of a day spent with music\nCONSTRAINTS: One object only (organic vase/jar/bottle-like). Pure white background (#FFFFFF). No props. No text/logos/watermarks. Not a sphere.",
+  "promptCmf": "A photorealistic handmade studio art ceramic object (organic vase/jar/bottle-like, but not a generic simple bottle) isolated on a pure white background (#FFFFFF). Mood: energetic joy of a day spent with music. Visual words: dynamic asymmetrical biomorphic form with gentle undulations and soft pinching marks, vibrant warm color palette of sunlit yellows and oranges with subtle gradient glazing, satin finish with lively pooling and delicate drips, micro surface details including fine speckle, soft crazing, tiny pinholes, and subtle orange peel texture. High-end studio product photograph: centered composition, deep focus, ultra-sharp, realistic PBR response, crisp but soft edge highlights, subtle clean contact shadow only. No props, no extra objects, no floor scene. No text, no logos, no labels, no watermark. Exactly one object. Do not generate a sphere.",
+  "generation": {
+    "model": "gemini-3.1-flash-image-preview",
+    "aspectRatio": "1:1",
+    "imageSize": "1K"
+  },
+  "drive": null,
+  "driveError": "서비스 계정(Service Account)은 개인 Google Drive(My Drive)에 저장 용량(quota)이 없어 업로드가 거부되었습니다.\n해결:\n- (권장) 공유 드라이브(Shared drive)를 만들고, 그 안에 폴더를 옮긴 뒤 서비스 계정을 멤버(Contributor 이상)로 추가하세요.\n- Google Workspace(회사/학교)라면 Domain-wide delegation + 사용자 위임(subject)으로 업로드를 실행해야 합니다."
+}

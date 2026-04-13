@@ -1,0 +1,25 @@
+{
+  "id": "mnunk2yj-515984340e13",
+  "createdAt": "2026-04-11T18:12:37.248Z",
+  "name": "emo__emo-5f08607c__0001",
+  "groupKey": "emo__emo-5f08607c",
+  "groupSeq": 1,
+  "groupLabel": "일을 너무 많이 해서 힘들었어 약간 감각이 사라질 정도로",
+  "imageMimeType": "image/jpeg",
+  "imageExt": "jpg",
+  "imageFile": "emo__emo-5f08607c__0001.jpg",
+  "inputs": {
+    "emotion": "일을 너무 많이 해서 힘들었어 약간 감각이 사라질 정도로",
+    "optionalNotes": ""
+  },
+  "promptKo": "목표: 감정(무드)에 따라 자연스러운 형상과 질감을 가진 도자기 오브젝트 1개(병/단지/화병 형태) 생성.\n감정/무드(Emotion/Mood): 일을 너무 많이 해서 힘들었어 약간 감각이 사라질 정도로\n재질: 반드시 도자기(세라믹)만. 도자기 안에서 유약/소성/바디/컬러/마감은 감정에 맞게 자동 선택.\n형태 제약: 구(스피어) 금지. 정확히 오브젝트 1개만 (유기적 실루엣).\n환경: 순백(#FFFFFF) 배경, 미니멀 스튜디오, 다른 오브젝트 없음.\n금지: 텍스트/로고/라벨/워터마크/설명 문구.",
+  "promptEn": "GOAL: Generate one realistic handmade ceramic object image for product visualization.\nEMOTION: 일을 너무 많이 해서 힘들었어 약간 감각이 사라질 정도로\nVISUAL_WORDS_EN: EMOTION: Numbness and fatigue from overwork\nCONSTRAINTS: One object only (organic vase/jar/bottle-like). Pure white background (#FFFFFF). No props. No text/logos/watermarks. Not a sphere.",
+  "promptCmf": "A photorealistic handmade ceramic vase with an organic bottle-like form isolated on a pure white background (#FFFFFF). Mood: numbness and fatigue from overwork. Visual words: elongated soft silhouette, muted cool gray-blue matte glaze, subtle kiln blush, fine pinholes, delicate crazing, slight orange peel texture. Studio product photo look: centered composition, deep focus, ultra-sharp, realistic PBR ceramic response, crisp but soft edge highlights, subtle clean contact shadow only. No props, no extra objects, no floor scene. No text, no logos, no labels, no watermark. Exactly one object. Do not generate a sphere.",
+  "generation": {
+    "model": "gemini-3.1-flash-image-preview",
+    "aspectRatio": "1:1",
+    "imageSize": "512"
+  },
+  "drive": null,
+  "driveError": "Drive service account JSON is missing/invalid. Use DRIVE_SERVICE_ACCOUNT_JSON as a JSON file path, not a multi-line JSON value in .env.local."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mnuqm61c-9181a53bf214",
+  "createdAt": "2026-04-11T19:38:13.396Z",
+  "name": "emo__0-10__0005",
+  "groupKey": "emo__0-10",
+  "groupSeq": 5,
+  "groupLabel": "AI: 오늘 하루의 에너지는 어땠어? (0~10 + 한 문장으로)\nUSER: 즐거운 소용돌이~10점\nAI: 오늘 가장 오래 남은 감정은 뭐야? 몸에서 느껴지는 위치/압력/리듬을 말해줘.\nUSER: 두근거리다가 떨리다",
+  "imageMimeType": "image/jpeg",
+  "imageExt": "jpg",
+  "imageFile": "emo__0-10__0005.jpg",
+  "inputs": {
+    "emotion": "AI: 오늘 하루의 에너지는 어땠어? (0~10 + 한 문장으로)\nUSER: 즐거운 소용돌이~10점\nAI: 오늘 가장 오래 남은 감정은 뭐야? 몸에서 느껴지는 위치/압력/리듬을 말해줘.\nUSER: 두근거리다가 떨리다",
+    "optionalNotes": ""
+  },
+  "promptKo": "목표: 감정(무드)에 따라 자연스러운 형상과 질감을 가진 도자기 오브젝트 1개(병/단지/화병 형태) 생성.\n감정 대화 로그:\nAI: 오늘 하루의 에너지는 어땠어? (0~10 + 한 문장으로)\nUSER: 즐거운 소용돌이~10점\nAI: 오늘 가장 오래 남은 감정은 뭐야? 몸에서 느껴지는 위치/압력/리듬을 말해줘.\nUSER: 두근거리다가 떨리다가 막 요동치고 즐거운 감정\nAI: 오늘 가장 강했던 순간은 어떤 방향이었어? (밀어붙임/당김/멈춤/흐름/흩어짐 중 무엇에 가까워?)\nUSER: 흩어지고 밀어붙여\nAI: 오늘 스스로에게 가장 필요했던 건 뭐였어? (보호/정리/확장/휴식/용기/정직 중 무엇이었어?)\nUSER: 행복한 휴식과 용기의 순간이었지\nAI: 지금 이 하루를 한 가지 ‘제스처’로 표현하면 뭐야? (쥐기/풀기/감싸기/비틀기/겹치기/숨기기/드러내기 등)\nUSER: 비틀고 겹치고 드러내기\nAI: 체크인이 완료됐어요. 이 대화로 형태/유약/팔레트/마감/표면 디테일을 자동 구성합니다.\n방향: 매우 추상적인 조형 작품. 재질은 하이브리드/모호해도 됨. 텍스타일/석재/유리질/레진/왁스/종이/폼 같은 표면 착시 가능.\n형태 제약: 구(스피어) 금지. 정확히 오브젝트 1개만 (유기적 실루엣).\n환경: 순백(#FFFFFF) 배경, 미니멀 스튜디오, 다른 오브젝트 없음.\n금지: 텍스트/로고/라벨/워터마크/설명 문구.",
+  "promptEn": "GOAL: Generate one realistic handmade ceramic object image for product visualization.\nEMOTION: 즐거움이 요동치는 소용돌이\nVISUAL_WORDS_EN: EMOTION: A swirling vortex of joy\nCONSTRAINTS: One object only (organic vase/jar/bottle-like). Pure white background (#FFFFFF). No props. No text/logos/watermarks. Not a sphere.",
+  "promptCmf": "A photorealistic abstract studio art sculptural object isolated on a pure white background (#FFFFFF). Mood: swirling vortex of joy. Visual words: dynamic swirling organic vase-like form with joyful rhythm and tension, soft deformable silhouette, warm vibrant palette of sunlit yellows and coral reds, ceramic material with subtle handmade irregularities, tactile ribbing and pleated folds, quilting puffing texture, resin-like depth with translucent glaze layers, waxy bloom surface illusion, and delicate loose-thread impressions suggesting woven textile. High-end studio photograph: centered composition, deep focus, ultra-sharp, realistic response with crisp but soft edge highlights, subtle clean contact shadow only. No props, no extra objects, no floor scene. No text, no logos, no labels, no watermark. Exactly one object. Do not generate a sphere.",
+  "generation": {
+    "model": "gemini-3.1-flash-image-preview",
+    "aspectRatio": "1:1",
+    "imageSize": "1K"
+  },
+  "drive": null,
+  "driveError": "서비스 계정(Service Account)은 개인 Google Drive(My Drive)에 저장 용량(quota)이 없어 업로드가 거부되었습니다.\n해결:\n- (권장) 공유 드라이브(Shared drive)를 만들고, 그 안에 폴더를 옮긴 뒤 서비스 계정을 멤버(Contributor 이상)로 추가하세요.\n- Google Workspace(회사/학교)라면 Domain-wide delegation + 사용자 위임(subject)으로 업로드를 실행해야 합니다."
+}
